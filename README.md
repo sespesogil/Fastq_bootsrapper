@@ -6,7 +6,7 @@ Utility to subsample fastq files by desired number or reads or by percentage. Fu
 
 # Usage 
 
-```./Fastq_bootstrapper.sh FILE```
+```./Fastq_bootstrapper.sh FASTQ_FILE```
 
 Follow the options after calling the program.
 
